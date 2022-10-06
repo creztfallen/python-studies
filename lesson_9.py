@@ -8,4 +8,4 @@ file = open('file.txt', 'r')
 
 for i in range(1, 1001):
     file.write(str(i)+ "\n")
-
+    
